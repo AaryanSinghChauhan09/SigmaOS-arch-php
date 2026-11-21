@@ -1,9 +1,9 @@
 [component]
-name = "SigmaOS-arch-php"
+name = "SigmaOS-php"
 tier = 2
 stability = "scaffold"
 language = "rust"
-description = "SigmaOS SigmaOS-arch-php component"
+description = "SigmaOS SigmaOS-php component"
 upstream = []
 
 [contract]

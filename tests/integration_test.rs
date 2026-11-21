@@ -1,4 +1,4 @@
-use arch_php::Component;
+use sigmaos_php::Component;
 
 #[test]
 fn test_component_new_aaa() {

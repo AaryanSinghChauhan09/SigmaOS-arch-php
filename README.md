@@ -1,6 +1,6 @@
-# SigmaOS-arch-php
+# SigmaOS-php
 
-SigmaOS SigmaOS-arch-php component
+SigmaOS SigmaOS-php component
 
 - **Category:** Components
 - **Engine:** component
